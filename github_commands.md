@@ -7,4 +7,4 @@ git push origin main
 
 
 // extra
-git pull origin main
+git pull origin mains

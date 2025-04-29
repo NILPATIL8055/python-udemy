@@ -48,6 +48,6 @@ print(length)#it provid the length of string which we provide in input
 #project (Band name generator)
 
 print("welcome to band name generator")
-pet = input("enter the name of your pet ")
-city = input("enter the name of your city ")
+pet = input("enter the name of your pet \n")
+city = input("enter the name of your city \n ")
 print("your band name should be " + pet +" "+ city)
